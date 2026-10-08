@@ -1,0 +1,6 @@
+{
+  "name": "Sanaullah Studio",
+  "description": "Mobile AI Studio to trim videos into 9:16 vertical TikTok shorts with smart tracking, viral hook generation, and profile studio player.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
